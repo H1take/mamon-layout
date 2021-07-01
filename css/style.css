@@ -324,7 +324,7 @@ body {
         font-size: 30px;
         color: #202020;
         font-weight: 700;
-        margin: 0 auto;
+        margin-left: auto;
     }
     .wrap {
         width: 100%;
@@ -335,22 +335,28 @@ body {
         width: 60%;
     }
     .services {
-        margin-left: -25px;
+        margin-left: -35px;
+    }
+    .services_text {
+        width: 50%;
+    }
+    .services_img {
+        width: 50%;
     }
     .services_img img {
         height: 40px;
     }
     .services_text {
-        margin-left: 5px;
+        margin-left: -15px;
     }
     .services_text h3 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .services_text p {
         font-size: 12px;
     }
     .clients img {
-        height: 20px;
+        height: 15px;
     }
     .logo-tripadvisor{
         width: 100px;
